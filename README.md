@@ -2,7 +2,7 @@
 
 ## Description
 
-  I created this project as part of the KU Coding Bootcamp's 19th module for Progressive Web Applications. It is an offline text editing app called JATE that can be run through the devtools as well as offline through an installation. This app was created to practice creating offline persistent PWAs using `idb` and webpacks.
+  I created this project as part of the KU Coding Bootcamp's 19th module for Progressive Web Applications. It is an offline text editing app called JATE that can be run through the devtools as well as offline through an installation. This app was created to practice creating offline persistent PWAs using `idb` and webpacks. The app is deployed on Heroku [here](https://thawing-plains-70108-316d8b1956e0.herokuapp.com/).
 
 ## Table of Contents
 
