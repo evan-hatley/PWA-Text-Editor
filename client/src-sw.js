@@ -41,3 +41,4 @@ registerRoute(
     ],
   })
 );
+registerRoute();
